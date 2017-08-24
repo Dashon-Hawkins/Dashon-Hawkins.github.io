@@ -588,7 +588,6 @@ footer {
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
   margin-left: 300px;
-  overflow: auto;
   padding: 15px
 }
 
