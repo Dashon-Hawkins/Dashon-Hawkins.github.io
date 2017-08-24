@@ -561,6 +561,7 @@ footer {
 #projects {
   padding: 50px 15px;
   border-bottom: 1px solid #dcd9d9;
+  overflow: auto;
   text-align: center
 }
 
@@ -588,7 +589,6 @@ footer {
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
   margin-left: 300px;
-  overflow: scroll;
   padding: 15px
 }
 
