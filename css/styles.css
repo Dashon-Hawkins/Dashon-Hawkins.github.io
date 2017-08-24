@@ -588,6 +588,7 @@ footer {
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
   margin-left: 300px;
+  overflow: scroll;
   padding: 15px
 }
 
@@ -595,7 +596,6 @@ footer {
   font-size: 1.5em;
   font-weight: 300;
   color: #374054;
-  overflow: scroll;
   margin: 0 0 15px 0
 }
 
