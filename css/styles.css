@@ -561,7 +561,6 @@ footer {
 #projects {
   padding: 50px 15px;
   border-bottom: 1px solid #dcd9d9;
-  overflow: auto;
   text-align: center
 }
 
@@ -574,7 +573,7 @@ footer {
   position: relative;
   max-width: 900px;
   margin: 0 auto 30px auto;
-  overflow: hidden;
+  overflow: auto;
   background: #fff;
   border-radius: 4px
 }
